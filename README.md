@@ -1,5 +1,4 @@
 # stock-market-price-prediction
-# Stock Price Prediction
 
 ## Overview
 This project aims to predict stock prices using machine learning techniques. The model is trained on historical stock data and optimized using Hyperopt and Talos for hyperparameter tuning.
